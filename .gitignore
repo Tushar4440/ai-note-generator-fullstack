@@ -1,0 +1,11 @@
+/backend/__pycache__
+/backend/.env
+.env
+/backend/test.db
+test.db
+
+/frontend/node_modules
+node_modules
+/public
+
+
